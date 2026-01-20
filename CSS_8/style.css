@@ -1,0 +1,26 @@
+body {
+    background: lightcoral;
+}
+li:last-child a{
+    color: chartreuse;
+}
+li:first-child a{
+    color: antiquewhite;
+}
+li:nth-child a{
+    color: greenyellow;
+}
+.hai:hover{
+    color: aqua;
+    font-style: italic;
+}
+.hai:active{
+    font-style: italic;
+}
+p:last-of-type{
+    color: rgb(53, 248, 252);
+}
+p:first-of-type{
+    font: bold;
+    color: seagreen;
+}
